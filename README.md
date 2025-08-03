@@ -1,2 +1,17 @@
-# Tic-Tac-Toe
-This is a fully functional and interactive Tic Tac Toe game made with Python’s Tkinter library. You can play solo against a smart computer with a friend for a two-player challenge! Customize the look with multiple themes, track scores, and play up to 10 rounds. A complete beginner-friendly GUI project with beautiful styling and simple code logic.
+# Tic Tac Toe 🎯 (Python Tkinter Game)
+
+A vibrant and beginner-friendly **Tic Tac Toe** game using Python's Tkinter library.  
+Play solo against a computer or challenge a friend!
+
+## 🔹 Features
+- 🎮 Play vs Computer (Easy/Hard difficulty)
+- 🤝 Two Player Mode with name input
+- 🌈 Theme switching (Lavender, Pink, Blue, etc.)
+- 🏆 Score and round tracker (best of 10)
+- 🎨 Stylish GUI and organized layout
+
+## 🛠️ How to Run
+Make sure Python is installed on your system.
+
+```bash
+python tic_tac_toe_game.py
